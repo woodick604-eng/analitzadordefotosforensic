@@ -1,0 +1,7 @@
+{
+  "name": "Analitzador de Fotos d'Accidents Forense",
+  "description": "Eina d'anàlisi de fotos d'accidents de trànsit per a la generació d'informes tècnics policials amb filtratge selectiu d'evidències.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
